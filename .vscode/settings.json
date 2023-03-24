@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "callbox"
-    ]
+    ],
+    "CodeGPT.model": "gpt-3.5-turbo"
 }
